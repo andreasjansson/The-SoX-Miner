@@ -1,0 +1,14 @@
+ _________________
+/\                \
+\_| The SoX Miner |
+  |   ____________|_
+   \_/______________/
+
+
+The SoX Miner is a script reads a number of files from stdin,
+preferably mp3 files, and extracts various bits of information from
+these files, using SoX.
+
+There is more thorough documentation in the soxminer.sh file, and on
+my blog: 
+http://rootnote.blogspot.com/2011/08/music-mining-with-sox.html
